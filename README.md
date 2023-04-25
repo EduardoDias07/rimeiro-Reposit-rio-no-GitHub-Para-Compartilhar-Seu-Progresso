@@ -1,2 +1,2 @@
-# rimeiro-Reposit-rio-no-GitHub-Para-Compartilhar-Seu-Progresso
+# Repositório do Desafio de um Projeto sobre Git/GitHub da Dio
 Desafio de um projeto
